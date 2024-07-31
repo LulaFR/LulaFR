@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Lula 👋
 
 <!--
 **LulaFR/LulaFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Mi nombre es Luciana, soy estudiante de programación. Resido en Mar del Plata, Buenos Aires, Argentina. Actualmente me quedan tres materias y las prácticas profesionales para poder recibirme. Soy una persona responsable, con muchas ganas de aprender y mejorar cada día más. Estoy entusiasmada por empezar mi vida laboral como programadora y crecer personal y profesionalmente.
+Soy estudiante de programación. Resido en Mar del Plata, Buenos Aires, Argentina. Actualmente me quedan tres materias y las prácticas profesionales para poder recibirme. Soy una persona responsable, con muchas ganas de aprender y mejorar cada día más. Estoy entusiasmada por empezar mi vida laboral como programadora y crecer personal y profesionalmente.
 ______________________________________________________________________________________________________________________________________________________________________________
