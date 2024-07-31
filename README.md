@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 Soy estudiante de programación. Resido en Mar del Plata, Buenos Aires, Argentina. Actualmente me quedan tres materias y las prácticas profesionales para poder recibirme. Soy una persona responsable, con muchas ganas de aprender y mejorar cada día más. Estoy entusiasmada por empezar mi vida laboral como programadora y crecer personal y profesionalmente.
-______________________________________________________________________________________________________________________________________________________________________________
